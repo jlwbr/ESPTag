@@ -1,0 +1,466 @@
+{
+    "PlayConfig": {
+        "ssid": "",
+        "password": "",
+        "channel": "",
+    },
+    "GameConfig": {
+        "GameType": "",
+        "FriendlyName": "",
+        "IsTeams": true,
+        "Teams": [
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            },
+            {
+                "TeamName": "",
+                "r": 10,
+                "g": 6,
+                "b": 20
+            }
+        ],
+        "TeamSelectable": true,
+        "Weapons": [
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            },
+            {
+                "WeaponName": "",
+                "Type": 1,
+                "FireRate": 1,
+                "Range": 1,
+                "Damage": 1,
+                "MagSize": 1
+            }
+        ],
+        "WeaponSelectable": true
+    }
+}
